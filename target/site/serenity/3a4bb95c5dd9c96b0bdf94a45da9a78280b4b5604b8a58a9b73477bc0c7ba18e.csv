@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Student get test with steps","This will search Students with Parameters and limit of students list","SUCCESS","2022-01-10T08:28:36.795Z[Europe/London]","0.0","9.46"
+"Student get test with steps","This will search Students with Parameters","SUCCESS","2022-01-10T08:28:46.330Z[Europe/London]","0.0","0.2"
+"Student get test with steps","This will get single Student info by Id","SUCCESS","2022-01-10T08:28:46.533Z[Europe/London]","0.0","0.75"
+"Student get test with steps","This will get all Students info","SUCCESS","2022-01-10T08:28:47.282Z[Europe/London]","0.0","0.34"
